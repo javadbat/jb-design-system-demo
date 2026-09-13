@@ -1,0 +1,16 @@
+.fixed-dimension {
+  --jb-image-input-width: 400px;
+  --jb-image-input-height: 400px;
+}
+.custom-placeholder {
+  width: 100%;
+  min-height: 15rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.custom-placeholder .emoji {
+  font-size: 4rem;
+}

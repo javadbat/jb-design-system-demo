@@ -1,0 +1,4 @@
+.max-height {
+  --jb-textarea-min-height: 48px;
+  --jb-textarea-max-height: 180px;
+}

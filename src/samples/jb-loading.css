@@ -1,0 +1,13 @@
+.small-24 {
+  width: 24px;
+  height: 24px;
+}
+.small-64 {
+  width: 64px;
+  height: 64px;
+}
+.mid-128-red {
+  width: 128px;
+  height: 128px;
+  --jb-loading-color: red;
+}

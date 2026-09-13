@@ -1,0 +1,15 @@
+.menu-item-wrapper {
+  border: 1px solid var(--jb-neutral-9);
+  padding: 1rem 2rem;
+  border-radius: 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  color: color: var(--jb-text-primary);
+  text-decoration: none;
+
+  &:hover{
+      border-color: var(--jb-primary);
+      color:var(--jb-primary)
+  }
+
+}

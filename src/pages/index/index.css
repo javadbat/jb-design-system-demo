@@ -1,0 +1,8 @@
+.page-wrapper {
+  padding: 1rem;
+}
+.component-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}

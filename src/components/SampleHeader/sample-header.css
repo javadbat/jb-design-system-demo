@@ -1,0 +1,14 @@
+.sample-header {
+  padding: 1rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  .title-row {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    h1 {
+      margin: 0;
+    }
+  }
+}
